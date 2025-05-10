@@ -45,6 +45,27 @@ streamlit run app.py
 ## 🌍 Deployment Link
 👉 [Try PRISON BREAK: ML Live](your-deployment-link)
 
+<<<<<<< HEAD
+## 📷 Screenshots & Demo 🎥
+
+### 📌 Home Page
+📍 Navigate through the Prison Break themed interface
+![Home Page](path-to-home-screenshot)
+
+### 📈 Technical Analysis
+📍 Explore advanced technical indicators
+![Technical Analysis](path-to-technical-screenshot)
+
+### 📊 Machine Learning Predictions
+📍 View ML model predictions and insights
+![ML Predictions](path-to-ml-screenshot)
+
+### 📜 Data Visualization
+📍 Interactive charts and real-time updates
+![Data Visualization](path-to-viz-screenshot)
+
+=======
+>>>>>>> b37e133e01904e25f3d4c5194ae234f9997c3052
 ## 🛠️ Features
 
 ### 🔓 Data Analysis
@@ -66,7 +87,11 @@ streamlit run app.py
 - Responsive design
 
 ## 📌 GitHub Repository
+<<<<<<< HEAD
+🔗 [Visit GitHub Repo](your-github-repo-link)
+=======
 🔗 [Visit GitHub Repo](https://github.com/fawad-liaqat/Prison-Break-ML)
+>>>>>>> b37e133e01904e25f3d4c5194ae234f9997c3052
 
 ## 🚀 Contributions & Feedback Welcome! 💡
 We welcome your contributions! Feel free to:
@@ -77,8 +102,14 @@ We welcome your contributions! Feel free to:
 
 ## 📧 Contact
 For support or queries:
+<<<<<<< HEAD
+- 📧 Email: [your-email]
+- 💼 LinkedIn: [your-linkedin]
+- 🐦 Twitter: [your-twitter]
+=======
 - 📧 Email: [fawadliaqat666@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/fawad-liaqat/]
+>>>>>>> b37e133e01904e25f3d4c5194ae234f9997c3052
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
